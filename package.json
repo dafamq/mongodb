@@ -1,0 +1,17 @@
+{
+	"name": "mongo",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"mongoose": "^8.4.1"
+	},
+	"devDependencies": {
+		"@faker-js/faker": "^8.4.1"
+	}
+}
